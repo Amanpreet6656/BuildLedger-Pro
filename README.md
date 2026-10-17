@@ -1,0 +1,3 @@
+Problem Solved: Replaces physical ledger books for construction site managers by digitally tracking daily attendance, calculating wage totals based on daily rates, and logging advance cash payouts to maintain accurate balance sheets.
+
+Architecture: A single-page client-side application. The interface is built with HTML5 and styled using the Tailwind CSS CDN. Application logic and state management are handled by vanilla JavaScript. Data persistence is achieved entirely in the browser using the Web Storage API (LocalStorage), ensuring offline functionality and immediate data retrieval without a backend database.
